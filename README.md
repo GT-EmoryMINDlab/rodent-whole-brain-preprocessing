@@ -5,7 +5,7 @@ CITATION: Nan Xu, Leo Zhang+, Sam Larson+, Zengmin Li, Nmachi Anumba, Lauren Dal
 # Table of Contents
 * 1 - [Dependencies](#section-1)
 * 2 - [Data Files](#section-2)
-* 3 - [Library Files](#section-3
+* 3 - [Library Files](#section-3)
     * 3.1 [Template Preparation (./lib/tmp/)](#section-3-1)
     * 3.2 [Topup Parameters (./lib/topup/)](#section-3-2)
         * 3.2.1 [Imaging acquisition parameter file (datain_topup_\*.txt)](#section-3-2-1)
